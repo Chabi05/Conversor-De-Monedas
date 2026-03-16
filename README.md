@@ -30,8 +30,6 @@ sudo apt update && sudo apt install build-essential
 💾 Pega el codigo que aparece en este repositorio
 
 🖥️ En la terminal, compila el programa:
-```bash
 gcc conversor.c -o conversor
 🚀 Ahora, ejecútalo:
-```bash
 ./conversor
